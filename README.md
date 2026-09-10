@@ -198,6 +198,6 @@
 
 * 董宝珍：雪球 https://xueqiu.com/u/7694221981
 
-* 一些金融数据整理 https://github.com/jbiaojerry/ebook-treasure-chest/blob/main/md/%E9%87%91%E8%9E%8D.md
+* 一些金融书籍整理 https://github.com/jbiaojerry/ebook-treasure-chest/blob/main/md/%E9%87%91%E8%9E%8D.md
 
 
